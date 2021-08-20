@@ -20,7 +20,7 @@ This repository contains all the required source files for the Django applicatio
 - Anaconda Environment
 
 ## 🔸**Algorithm used:**
-- Python Script : [`algorithm.py`](https://github.com/gauravpore/URLShortener-app/blob/master/algorithm.py)
+- Python Script : [`algorithm.py`](https://github.com/gauravpore/URLShortener-app/blob/final/algorithm.py)
 ```python
   - Python dictionary is used to store (key: original url, value: numeric id).
   - When a  new url is given as input, a new id (latest id + 1) is generated, which will always be unique.
@@ -78,7 +78,7 @@ Refer [this](https://devcenter.heroku.com/articles/getting-started-with-python) 
 
 
 ## 🔸Screenshot of UI:
-![alt tag](https://github.com/gauravpore/URLShortener-app/blob/master/snip.png "Chrome Extension")
+![alt tag](https://github.com/gauravpore/URLShortener-app/blob/final/snip.png "Chrome Extension")
 
 
 
