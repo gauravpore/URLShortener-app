@@ -28,7 +28,7 @@ class UrlShortener:
             val = id % base
             ret.append(characters[val])
             id = id // base
-        return "".join(ret[::-1])
+        return "".join(ret[::-1]) # returning reverse str of list elements
 
 
 # Driver-code
