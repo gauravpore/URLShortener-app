@@ -2,7 +2,7 @@
 ## 🔸Overview:
 ### 📌Click [here](https://drive.google.com/file/d/1NkTVstCDgjh42h6_RkSA0aYnZOIQudFL/view?usp=sharing) to watch the demo of the project.
 
-URL shortening is a technique on the World Wide Web that enables the Uniform Resource Locator to be made considerably shorter and still direct to the desired page. This is done by using a redirect path to a web page that has a long URL.
+URL shortening is a technique on the World Wide Web in which a Uniform Resource Locator (URL) may be made substantially shorter and still direct to the required page. This is achieved by using a redirect which links to the web page that has a long URL.
 This repository contains all the required source files for the Django application and shortening algorithm used.
 
 ## 🔸**Concepts:**
