@@ -41,7 +41,7 @@ The implemented algorithm can encode `1000000000` , i.e billion of urls and gene
 ## 🔹Working & Features:
 ```
 - The objective of the application is to generate a shortened url, from the original url provided by the user.
-- The application uses the django backend for handling requests, and uses sqlite databse to store the urls, with timestamp.
+- The application uses the django backend for handling requests, and uses sqlite database to store the urls, with timestamp.
 - Forms and basic Html is used to enable user-friendly frontend UI, so that users can interact with the application.
 - The application generates a unique short url from the original url, so that users can use the converted url to land on the desired original url.
 ```
